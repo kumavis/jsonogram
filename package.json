@@ -1,7 +1,6 @@
 {
   "name": "jsonogram",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,15 @@
   "dependencies": {
     "stream-to-array": "^2.2.0",
     "treeify": "^1.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumavis/jsonogram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kumavis/jsonogram/issues"
+  },
+  "homepage": "https://github.com/kumavis/jsonogram#readme",
+  "description": ""
 }
