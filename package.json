@@ -23,5 +23,5 @@
     "url": "https://github.com/kumavis/jsonogram/issues"
   },
   "homepage": "https://github.com/kumavis/jsonogram#readme",
-  "description": ""
+  "description": "cli tool to pretty print json."
 }
