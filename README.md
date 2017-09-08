@@ -1,5 +1,7 @@
 # jsonogram
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/jsonogram.svg)](https://greenkeeper.io/)
+
 cli tool to pretty print json.
 
 ```
